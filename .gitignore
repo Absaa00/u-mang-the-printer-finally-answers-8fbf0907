@@ -1,0 +1,12 @@
+# The Printer Finally Answers — local run artefacts
+/output/
+entry.txt
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+printer-*.log
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
